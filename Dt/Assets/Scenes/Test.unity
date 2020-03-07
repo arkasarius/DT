@@ -162,6 +162,7 @@ MonoBehaviour:
     type: 3}
   Sstate: 0
   audioSource: {fileID: 25245528}
+  p: 9000
 --- !u!4 &25245527
 Transform:
   m_ObjectHideFlags: 0

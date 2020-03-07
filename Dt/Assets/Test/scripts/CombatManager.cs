@@ -14,7 +14,7 @@ public class CombatManager : MonoBehaviour
     public Sprite S_attack, S_item, S_special;
     public SelectionState Sstate;
     public AudioSource audioSource;
-
+    public int p;
 
     private void Start()
     {
